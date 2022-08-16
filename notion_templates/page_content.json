@@ -1,0 +1,219 @@
+{
+  "object": "list",
+  "results": [
+    {
+      "object": "block",
+      "parent": {
+        "type": "page_id",
+        "page_id": "{new_page_id}"
+      },
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "{COURSE_DESCRIPTION}",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "{COURSE_DESCRIPTION}",
+            "href": null
+          }
+        ],
+        "color": "gray"
+      }
+    },
+    {
+      "object": "block",
+      "id": "9815c65c-0d5e-491d-8803-1e0c541dcdcf",
+      "parent": {
+        "type": "page_id",
+        "page_id": "3c4b8453-4bc5-4e74-97f4-65c1ae5c35ea"
+      },
+      "has_children": false,
+      "archived": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Instructor: ",
+              "link": null
+            },
+            "annotations": {
+              "bold": true,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Instructor: ",
+            "href": null
+          },
+          {
+            "type": "mention",
+            "mention": {
+              "type": "page",
+              "page": {
+                "id": "7ea28f66-7828-4764-9821-6e89ac00acfb"
+              }
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Professor Linus Caesar",
+            "href": "https://www.notion.so/7ea28f667828476498216e89ac00acfb"
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": " ",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": " ",
+            "href": null
+          }
+        ],
+        "color": "blue"
+      }
+    },
+    {
+      "object": "block",
+      "id": "f3b6b240-0420-4ac9-bcb6-073a0a95ce81",
+      "parent": {
+        "type": "page_id",
+        "page_id": "3c4b8453-4bc5-4e74-97f4-65c1ae5c35ea"
+      },
+      "created_time": "2022-08-07T23:30:00.000Z",
+      "last_edited_time": "2022-08-08T00:14:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "6c5a437a-4796-4d4f-bdaa-e13b33605cff"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "6c5a437a-4796-4d4f-bdaa-e13b33605cff"
+      },
+      "has_children": true,
+      "archived": false,
+      "type": "child_page",
+      "child_page": {
+        "title": "Syllabus"
+      }
+    },
+    {
+      "object": "block",
+      "id": "1440d99e-e080-43a6-8649-8fbd77f3c784",
+      "parent": {
+        "type": "page_id",
+        "page_id": "3c4b8453-4bc5-4e74-97f4-65c1ae5c35ea"
+      },
+      "created_time": "2022-08-08T00:09:00.000Z",
+      "last_edited_time": "2022-08-08T00:14:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "6c5a437a-4796-4d4f-bdaa-e13b33605cff"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "6c5a437a-4796-4d4f-bdaa-e13b33605cff"
+      },
+      "has_children": false,
+      "archived": false,
+      "type": "child_database",
+      "child_database": {
+        "title": "Class Notes"
+      }
+    },
+    {
+      "object": "block",
+      "id": "ba9c136b-64c7-46c9-8de8-690b043f7fb7",
+      "parent": {
+        "type": "page_id",
+        "page_id": "3c4b8453-4bc5-4e74-97f4-65c1ae5c35ea"
+      },
+      "created_time": "2022-08-07T23:30:00.000Z",
+      "last_edited_time": "2022-08-07T23:53:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "6c5a437a-4796-4d4f-bdaa-e13b33605cff"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "6c5a437a-4796-4d4f-bdaa-e13b33605cff"
+      },
+      "has_children": false,
+      "archived": false,
+      "type": "heading_1",
+      "heading_1": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "CLASS SCHEDULE",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "CLASS SCHEDULE",
+            "href": null
+          }
+        ],
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "7f8b55c8-2b15-45da-bd71-a41f78b089b8",
+      "parent": {
+        "type": "page_id",
+        "page_id": "3c4b8453-4bc5-4e74-97f4-65c1ae5c35ea"
+      },
+      "created_time": "2022-08-07T23:51:00.000Z",
+      "last_edited_time": "2022-08-07T23:51:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "6c5a437a-4796-4d4f-bdaa-e13b33605cff"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "6c5a437a-4796-4d4f-bdaa-e13b33605cff"
+      },
+      "has_children": true,
+      "archived": false,
+      "type": "column_list",
+      "column_list": {}
+    }
+  ],
+  "type": "block",
+  "block": {}
+}
